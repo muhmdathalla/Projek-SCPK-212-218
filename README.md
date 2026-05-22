@@ -6,8 +6,8 @@ Aplikasi **Sistem Pendukung Keputusan (SPK)** berbasis web ini dibangun mengguna
 ---
 
 ## 👥 Profil Kelompok
-* **Muhammad Athalla Bagaskara** (NIM: *[Isi NIM Lu di Sini]*) - UPN "Veteran" Yogyakarta
-* **Muhammad Ridho Hikmatul Maulana** (NIM: 123240218) - Anggota Kelompok 2
+* **Muhammad Athalla Bagaskara** (NIM: 123240212)
+* **Muhammad Ridho Hikmatul Maulana** (NIM: 123240218)
 
 ---
 

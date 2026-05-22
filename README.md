@@ -1,4 +1,4 @@
-```markdown
+
 # 🌾 Sistem Pendukung Keputusan Pemilihan Pupuk Tanaman Padi — Metode SAW
 
 Aplikasi **Sistem Pendukung Keputusan (SPK)** berbasis web ini dibangun menggunakan **Streamlit** untuk menganalisis dan menentukan pupuk atau rekomendasi kondisi lahan terbaik bagi penanaman tanaman padi. Proyek ini memenuhi ketentuan Proyek Akhir Praktikum **Sistem Pendukung Keputusan (SCPK) 2025/2026** di **UPN "Veteran" Yogyakarta**.

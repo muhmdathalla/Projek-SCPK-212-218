@@ -5,7 +5,7 @@ Aplikasi **Sistem Pendukung Keputusan (SPK)** berbasis web ini dibangun mengguna
 
 ---
 
-## 👥 Profil Kelompok
+## 👥 Anggota Kelompok 10
 * **Muhammad Athalla Bagaskara** (NIM: 123240212)
 * **Muhammad Ridho Hikmatul Maulana** (NIM: 123240218)
 

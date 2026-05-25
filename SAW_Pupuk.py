@@ -363,11 +363,11 @@ elif halaman == "⚙️ Hitung SPK-SAW":
 
             def warna_peringkat(row):
                 if row['Peringkat'] == 1:
-                    return ['background-color: #FFF9C4; font-weight:bold']*len(row)
+                    return ['background-color: #000000; font-weight:bold']*len(row)
                 elif row['Peringkat'] == 2:
-                    return ['background-color: #F5F5F5; font-weight:bold']*len(row)
+                    return ['background-color: #000000; font-weight:bold']*len(row)
                 elif row['Peringkat'] == 3:
-                    return ['background-color: #FFF0E0; font-weight:bold']*len(row)
+                    return ['background-color: #000000; font-weight:bold']*len(row)
                 return ['']*len(row)
 
             st.dataframe(
@@ -745,7 +745,7 @@ elif halaman == "👥 Profil Kelompok":
     st.markdown("---")
     st.markdown("""
     <div class='card'>
-        <h3 style='color:#2d6a4f'>📋 Detail Proyek Akhir</h3>
+        <h3 style='color:#000000'>📋 Detail Proyek Akhir</h3>
         <table style='width:100%; font-size:0.95rem'>
             <tr><td style='padding:6px;font-weight:600'>Judul</td><td>Sistem Pendukung Keputusan berbasis metode SAW untuk menganalisis Pemilihan Pupuk Terbaik untuk Penanaman Tanaman Padi</td></tr>
             <tr><td style='padding:6px;font-weight:600'>Metode</td><td>SAW (Simple Additive Weighting)</td></tr>

@@ -37,12 +37,10 @@ Proyek ini disusun sebagai bagian dari luaran **Praktikum Sistem Pendukung Keput
    * **Fitur Unduh (Download):** Mengekspor hasil perangkingan penuh ke dalam format **CSV** dan **Excel (.xls)** secara instan yang langsung rapi terbagi per kolom (*auto-detect separators*).
 
 4. **📈 Visualisasi & Analitik Data**
-   * **Grafik 1:** Distribusi nilai preferensi preferensi SAW dan rata-rata peringkat horizontal.
-   * **Grafik 2:** Proporsi kontribusi bobot kriteria aktif (*Pie & Bar Chart*).
-   * **Grafik 3:** Sebaran data mentah parameter lingkungan menggunakan *Boxplot*.
-   * **Grafik 4:** *Radar Chart (Spider Web)* untuk membandingkan kecocokan profil lahan vs bobot aktif.
-   * **Grafik 5:** *Heatmap* Korelasi Pearson antar kriteria terhadap nilai akhir SAW.
-   * **Grafik 6:** *Scatter Plot* pintar yang melacak sebaran top 10% alternatif lahan terbaik secara dinamis.
+   * **Grafik 1:** Proporsi kontribusi bobot kriteria aktif (*Pie & Bar Chart*).
+   * **Grafik 2:** Sebaran data mentah parameter lingkungan menggunakan *Boxplot*.
+   * **Grafik 3:** *Heatmap* Korelasi Pearson antar kriteria terhadap nilai akhir SAW.
+   * **Grafik 4:** *Scatter Plot* pintar yang melacak sebaran top 10% alternatif lahan terbaik secara dinamis.
 
 ---
 
